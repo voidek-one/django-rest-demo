@@ -10,7 +10,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 Django==3.0.4
 django-templated-mail==1.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djoser==2.0.3
 drf-yasg==1.17.1
 entrypoints==0.3
